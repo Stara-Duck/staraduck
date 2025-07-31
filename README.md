@@ -1,2 +1,4 @@
-# staraduck
-Main Page
+# Staraduck tools list
+
+https://github.com/Stara-Duck/staraduck
+
